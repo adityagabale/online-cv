@@ -55,15 +55,15 @@ experiences:
           - Devops and Agile Methodologies
           - Leading the architecture, planning and development work
           - Application Owner for Compliance with Regulations
-          - Leading team of 8 developers, managing their carrer aspirations and other expectations
-          
+          - Leading team of 8 developers, managing their carrier aspirations and other expectations
+
     - role: Consultant Specialist
       time: Mar 2019 - Feb 2021 (2 years)
       company: HSBC
       details: |
-            Worked as a POD lead + Tech Lead and Individual contributor
-          - Focus on technical debt, reducing software vulnerabilities
-          - Supporting the business product owner in making technology and architecture related decision to groom the
+            Worked as a POD lead + Tech Lead and Individual contributor 
+             - Focus on technical debt, reducing software vulnerabilities
+             - Supporting the business product owner in making technology and architecture related decision to groom the
             backlog as well as help in prioritizing/estimating new modules for future year budgeting
             
     - role: Senior Software Engineer
@@ -106,7 +106,7 @@ projects:
 
       - title: Tempo
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users & investors"
 
       - title: Atom
         link: "#"
@@ -128,7 +128,7 @@ Ceertifications:
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Genetic Programming III: Darwinian Invention & Problem Solving"
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
@@ -139,7 +139,7 @@ Ceertifications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills & Proficiency
 
     toolset:
       - name: Python & Django
