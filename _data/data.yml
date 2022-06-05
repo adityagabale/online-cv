@@ -163,7 +163,10 @@ skills:
         level: 80%
         
       - name: Ansible
-        level: 85%
+        level: 85% 
+        
+      - name: Linux
+        level: 60%
 
 
 footer: >
