@@ -44,43 +44,51 @@ education:
       time: 2010 - 2011
       
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Consultant Specialist (AVP)
+      time: Mar 2021 - Present
+      company: HSBC
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Hands on experience with messaging protocols (MQ, Solace) with distributed computing and streaming real time
+        data like Prices using SSE and Websockets with lowest latency.
+          - Micro Service based architecture
+          - Security implementation using Oauth 2
+          - Devops and Agile Methodologies
+          - Leading the architecture, planning and development work
+          - Application Owner for Compliance with Regulations
+          - Leading team of 8 developers, managing their carrer aspirations and other expectations
+          
+    - role: Consultant Specialist
+      time: Mar 2019 - Feb 2021 (2 years)
+      company: HSBC
+      details: |
+            Worked as a POD lead + Tech Lead and Individual contributor
+          - Focus on technical debt, reducing software vulnerabilities
+          - Supporting the business product owner in making technology and architecture related decision to groom the
+            backlog as well as help in prioritizing/estimating new modules for future year budgeting
+            
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: Sep 2016 - Feb 2019 (2 years 6 months)
+      company: HSBC
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+            Worked as a Individual Contributor for new features on Sales focused front office platform
+            
+    - role: Senior Software Engineer
+      time: Apr 2014 - Mar 2015 (1 year)
+      company: Persistent
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+            Worked as a Individual Contributor for Oracle India Ltd on development of connector library for Oracle E-Business Suite Integration with IAM.
+            Primarily on Java and Oracle Frameworks
+            
+    - role: Programmer Analyst
+      time: Sep 2016 - Feb 2019 (2 years 6 months)
+      company: Cognizant
+      details: |
+            - Developed Monitors plugins for a cloud product using Java.
+            - Developed auto house cleaning product on Windows using Java for SFTP servers.
+            - Developed Automated Analytic tool for day to day tasks for the Azure platform.
+            - Developed incubation project for Azure IAAS.
+            - Handled other projects and gained knowledge on Amazon Cloud Services and Azure
+          
 projects:
     title: Projects
     intro: >
@@ -108,7 +116,7 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
+Ceertifications:
     title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
