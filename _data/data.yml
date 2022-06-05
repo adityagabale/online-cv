@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Aditya Hemant Gabale
-    tagline: Lead Developer
+    tagline: Lead Developer - Project Lead - Application Owner
     avatar: profile.png.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -34,17 +34,18 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Experienced Lead Developer working as POD LEAD and Application Owner. 
+        Experienced Lead Developer working as POD LEAD and Application Owner for Fixed Income in Front Office Sales space. 
         Hands on application design / development experience in Java, Micro-services and Spring Boot, Cloud platforms
         and Linux. Skilled in Java 8, Micro Services, Cloud basics, Calypso, Grpc, Fuzzy Search using ElasticSearch, Spring, 
         experience with setting and configuration of tooling such as ELK, Grafana, Jenkins, Nginx, Consul, Rundeck and automation using Ansible.
+        Knowledge of OTC Fixed Income Products (Bonds, CDS and IRS)
 education:
     - degree: B.E. in Computer Science
       university: Solapur University
       time: 2010 - 2011
       
 experiences:
-    - role: Senior Consultant Specialist (AVP)
+    - role: Senior Consultant Specialist
       time: Mar 2021 - Present
       company: HSBC
       details: |
@@ -90,31 +91,18 @@ experiences:
             - Handled other projects and gained knowledge on Amazon Cloud Services and Azure
           
 projects:
-    title: Projects
+    title: Projects in Investment Banking
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      These are projects where I have worked for Investment Banking
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Internal Sales Venue for Bonds
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "The application is used to start/raise RFQ lifecycle for negotiation with Trader. The application also takes care of regulatory reporting and Sales Efficiencies. This includes both UI/UX on React and Backend on Spring/Microservices with zero downtime intraday Deployments"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users & investors"
+      - title: Derivatives Backoffice
+        link: "https://www.calypso.com/"
+        tagline: "Derivatives Backoffice application customized on Vendor product called Calypso. It acted as a cross asset , cross function post trade system capable of generating SWIFT and Confirmations to clients and is used by Operations Team"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 Ceertifications:
     title: Publications
