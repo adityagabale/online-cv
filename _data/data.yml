@@ -33,10 +33,11 @@ sidebar:
     
 career-profile:
     title: Career Profile
-    summary: Experienced Lead Developer working as POD LEAD and Application Owner. 
-    Hands on application design / development experience in Java, Micro-services and Spring Boot, Cloud platforms
-    and Linux. Skilled in Java 8, Micro Services, Cloud basics, Calypso, Grpc, Fuzzy Search using ElasticSearch, Spring, 
-    experience with setting and configuration of tooling such as ELK, Grafana, Jenkins, Nginx, Consul, Rundeck and automation using Ansible.
+    summary: |
+        Experienced Lead Developer working as POD LEAD and Application Owner. 
+        Hands on application design / development experience in Java, Micro-services and Spring Boot, Cloud platforms
+        and Linux. Skilled in Java 8, Micro Services, Cloud basics, Calypso, Grpc, Fuzzy Search using ElasticSearch, Spring, 
+        experience with setting and configuration of tooling such as ELK, Grafana, Jenkins, Nginx, Consul, Rundeck and automation using Ansible.
 education:
     - degree: B.E. in Computer Science
       university: Solapur University
