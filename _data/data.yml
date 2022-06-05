@@ -105,16 +105,14 @@ projects:
 
 
 Ceertifications:
-    title: Publications
+    title: Certifications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+  
     papers:
-      - title: The Art of Computer Programming
+      - title: Oracle Certified Professional, Java SE 6 Programmer
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Oracle
+        conference: 
 
       - title: "Genetic Programming III: Darwinian Invention & Problem Solving"
         link: "#"
@@ -130,22 +128,22 @@ skills:
     title: Skills & Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Java
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Spring
         level: 98%
 
-      - name: Angular
+      - name: Devops and Automation
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: JavaScript
+        level: 60%
 
-      - name: Ruby on Rails
+      - name: Ansible
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: React
         level: 60%
 
 footer: >
